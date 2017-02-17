@@ -1,0 +1,2 @@
+# flask_keras_imagenet
+Kerasを使ったImagenetの分類サンプルをFlaskで動かすもの
