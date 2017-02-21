@@ -9,4 +9,5 @@ Keras
 Flask  
 などなど  
 
-Webへ公開する際はnginxとuwsgiなどを組み合わせた方がいいです。
+Webへ公開する際はnginxとuwsgiなどを組み合わせた方がいいです。下記URL参考
+http://qiita.com/yasunori/items/64606e63b36b396cf695
